@@ -11,7 +11,6 @@ This repository is complete and contains solutions to all the [HackerRank SQL](h
 - [Advanced Join](https://github.com/AKG2381/Hackerrank_SQL_solutions/tree/master/Advanced%20Join)
 - [Alternative Queries](https://github.com/AKG2381/Hackerrank_SQL_solutions/tree/master/Alternative%20Queries)
 
-## License
-This repository is licensed under MIT Lisence. 
+
 
 
